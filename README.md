@@ -4,11 +4,11 @@ This repository documents my complete development environment setup for the AI A
 
 ---
 
-## 📌 Development Environment Checklist
+## Development Environment Checklist
 
 ### ✅ Node.js Installed
 Screenshot:  
-<img src="images/node-version.png" width="400">
+<img src="images/node.png" width="400">
 
 ### ✅ Git Installed
 Screenshot:  
@@ -20,14 +20,17 @@ Screenshot:
 
 ### ✅ Claude Desktop with 4 MCP Servers Loaded (Rolldice, Bootcamp, Calendar, GitHub)
   
-Screenshot:  
-Rolldice
+
+### Rolldice 
 <img src="images/RolldiceScreenshot 2025-11-25 182306.png" width="400">
-Bootcamp
+
+### Bootcamp
 <img src="images/bootcampScreenshot 2025-11-25 182604.png" width="400">
-Calender
+
+### Calendar
 <img src="images/calenderScreenshot 2025-11-25 182738.png" width="400">
-Github
+
+### GitHub
 <img src="images/GithubScreenshot 2025-11-25 182809.png" width="400">
 
 ---

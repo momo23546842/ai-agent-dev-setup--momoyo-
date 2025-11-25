@@ -16,11 +16,10 @@ Screenshot:
 
 ### ✅ VS Code Insider + GitHub Copilot Enabled
 Screenshot:  
-<img src="images/vscode-insider.png" width="400">
+<img src="images/Github-copiloteScreenshot 2025-11-25 190553.png" width="400">
 
 ### ✅ Claude Desktop with 4 MCP Servers Loaded (Rolldice, Bootcamp, Calendar, GitHub)
   
-
 ### Rolldice 
 <img src="images/RolldiceScreenshot 2025-11-25 182306.png" width="400">
 

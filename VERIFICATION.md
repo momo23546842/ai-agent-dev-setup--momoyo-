@@ -72,6 +72,62 @@ This screenshot demonstrates:
 - This fulfills the requirement:  
   **“Example of using GitHub MCP server to interact with your repository.”**
 
+  # ✔ Git Commit History Verification
+
+This section provides proof that proper version control workflows were used during the setup of my AI Agent Developer environment.  
+All changes in this repository were tracked using Git, with clear commit messages and multiple incremental updates.
+
+---
+
+## 🧾 Commit History (Git Workflow Proof)
+
+I used GitHub to manage and track all updates to this repository.  
+The commit history below demonstrates:
+
+- Frequent incremental commits  
+- Meaningful commit messages  
+- Timestamped actions  
+- Proper version control workflow  
+- Verified commits linked to my GitHub account  
+
+### 📸 Commit History Screenshot
+
+The following screenshot shows my actual commit history for this project:
+
+`images/git-commit-history.png`
+
+This screenshot includes:
+
+- Commit messages such as:
+  - `Update VERIFICATION.md`
+  - `Add files via upload`
+  - `Update README.md`
+- Dates and timestamps  
+- Verified commit badges  
+- My GitHub username: **momo23546842**
+
+---
+
+## 🔧 Tools Used
+
+- **GitHub (web interface)** – Used to commit, upload files, and update documentation.  
+- **VS Code + GitHub MCP Server** – Used to access repository files directly through Claude AI.  
+- **Git** – Verified installation and used for local environment setup.
+
+---
+
+## Result
+
+- ✔ Git is installed and available in my environment  
+- ✔ Version control workflow is properly used  
+- ✔ All project files are committed with clear history  
+- ✔ Commit log shows real development activity  
+
+This confirms that the repository meets the submission requirement for:
+
+**“Git commit history showing proper version control workflow.”**
+
+
 
 
 

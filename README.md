@@ -1,8 +1,10 @@
 # AI Agent Developer Setup
 
-**Student:** Momoyo Kataoka 
-**Cohort:** Full Stack Developer and Agentic AI Industry Project Internship
-**Repository:** `ai-agent-dev-setup--momoyo`
+**Student:** Momoyo Kataoka  
+**Cohort:** CH181125  
+**Program:** Full Stack Developer and Agentic AI Industry Project Internship  
+**Workshop:** AI Agent Developer Workshop - Week 1  
+**Repository:** `ai-agent-dev-setup-momoyo`
 
 ---
 
@@ -16,7 +18,6 @@ This repository documents my complete development environment setup for the AI A
 
 ### 1. Node.js Installation
 **Status:** ✅ Completed  
-**Version:** [スクリーンショットから確認したバージョン番号を入力]
 
 <img src="images/node.png" width="600" alt="Node.js version output">
 
@@ -26,7 +27,6 @@ Node.js is required for running MCP servers and managing npm packages for AI age
 
 ### 2. Git Installation
 **Status:** ✅ Completed  
-**Version:** [スクリーンショットから確認したバージョン番号を入力]
 
 <img src="images/GitScreenshot 2025-11-25 185107.png" width="600" alt="Git version output">
 
@@ -140,12 +140,6 @@ ai-agent-dev-setup-[your-name]/
 
 ---
 
-### Issue 2: [必要に応じて他の問題を追加]
-**Problem:** [問題の説明]
-
-**Solution:** [解決方法]
-
----
 
 ## 🎯 Key Insights
 
@@ -158,44 +152,6 @@ The setup process revealed a fundamental shift from traditional development to A
 
 3. **Multi-Tool Orchestration:** Having 4 different MCP servers highlights how AI agents can coordinate multiple specialized tools to accomplish complex tasks.
 
----
 
-## 📚 Next Steps
 
-- [ ] Verify all MCP servers are fully operational once binaries are available
-- [ ] Complete `reflection.md` with 500-word analysis
-- [ ] Document MCP server usage examples in `VERIFICATION.md`
-- [ ] Ensure minimum 5 meaningful commits demonstrating proper Git workflow
-- [ ] Test GitHub MCP server by having Claude interact with this repository
 
----
-
-## 📞 Support & Resources
-
-- **Workshop Materials:** [ワークショップリソースへのリンクを追加]
-- **MCP Documentation:** [MCPドキュメントへのリンクを追加]
-- **Cohort Discord:** [該当する場合はリンクを追加]
-
----
-
-## 📝 Commit History
-
-This repository demonstrates proper version control practices with at least 5 meaningful commits:
-
-```bash
-git log --oneline --graph
-```
-
-Example commit history:
-```
-* a1b2c3d Add Node.js installation verification
-* d4e5f6g Configure MCP servers in Claude Desktop
-* h7i8j9k Document troubleshooting steps
-* l0m1n2o Add screenshots for all environment components
-* p3q4r5s Initial repository setup
-```
-
----
-
-**Last Updated:** November 27, 2025  
-**Status:** Environment Setup Complete - Pending Server Verification

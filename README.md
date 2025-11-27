@@ -44,9 +44,11 @@ VS Code Insider provides cutting-edge IDE features, while GitHub Copilot enhance
 ---
 
 ### 4. Claude Desktop with MCP Servers
-**Status:** ⚠️ Partially Completed (Configuration loaded, servers pending implementation)
+**Status:** ✅ Completed (GitHub MCP server successfully connected and running)
 
-Claude Desktop successfully loaded the MCP configuration file with 4 servers configured:
+Claude Desktop successfully loaded the MCP configuration file with 4 servers configured.  
+Rolldice / Bootcamp / Calendar servers are configured and showing warning icons as expected for the current workshop stage, while the GitHub MCP server is fully running and able to access my repository.
+
 
 #### **Server 1: Rolldice**
 <img src="images/RolldiceScreenshot 2025-11-25 182306.png" width="600" alt="Rolldice MCP server">
@@ -73,6 +75,9 @@ Claude Desktop successfully loaded the MCP configuration file with 4 servers con
 <img src="images/GithubScreenshot 2025-11-25 182809.png" width="600" alt="GitHub MCP server">
 
 **Purpose:** Enables AI to interact directly with GitHub repositories - creating issues, managing pull requests, and automating repository workflows.
+
+**Verification:** Confirmed that the GitHub MCP server is running and can successfully interact with my repository `ai-agent-dev-setup-momoyo` from Claude Desktop.
+
 
 ---
 
